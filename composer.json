@@ -1,5 +1,5 @@
 {
-    "name": "daidp/azure-noti",
+    "name": "phuocdaivl/azure-noti",
     "description": "Push notification with Azure Notification Hub Service",
     "type": "library",
     "require": {
