@@ -1,6 +1,11 @@
 # DaiDP Azure Notification
 Create Registration and send notification
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/phuocdaivl/azure-noti?style=flat-square)](https://packagist.org/packages/phuocdaivl/azure-noti)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![Build Status](https://img.shields.io/travis/phuocdaivl/azure-noti/master.svg?style=flat-square)](https://travis-ci.org/phuocdaivl/azure-noti)
+[![Total Downloads](https://img.shields.io/packagist/dt/phuocdaivl/azure-noti.svg?style=flat-square)](https://packagist.org/packages/phuocdaivl/azure-noti)
+
 ## Download & Install
 ```bash
 composer require phuocdaivl/azure-noti
